@@ -1,5 +1,5 @@
 # TFM_UEM
-# Estudio comparativo de Machine Learning para Análisis de Sentimiento en Twitter
+# ANÁLISIS COMPARATIVO DE MODELOS DE ANÁLISIS DE SENTIMIENTO EN REDES SOCIALES: ENFOQUES TRADICIONALES Y AVANZADOS
 
 Este proyecto tiene como objetivo comparar diversos modelos de *Machine Learning* aplicados al análisis de sentimiento en Twitter. Para ello, se ha utilizado el dataset [Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140).
 
